@@ -1,0 +1,10 @@
+{
+	"autoload": {
+		"psr-4" : {
+			"Marnell\\" : "lib/"
+		}
+	},
+	"require": {
+		"guzzle/guzzle": "^3.9"
+	}
+}
